@@ -1,0 +1,22 @@
+#1
+# O mercado com maior lucro foi o Mercado Central,pelo fato de ter vendido com preços maiores,apesar de não ter sido quem mais vendeu
+#2
+# Centro: Cartão de débito, Leste: Cartão de crédito, Norte: Cartão de débito e PIX, Oeste: Dinheiro
+#3
+# O produto mais vendido foi o feijão enquanto o menos vendido o sal
+#4
+# Mais caro: Mercado Central,Mais mediano: Mercado da Praça, Mais barato: Atacadão Leste
+#5
+# Lucro total de 4883.78,a região com maior receita individual foi o Mercado Central
+
+#6
+# o novo faturamento foi 372.36, devido ao preço já descontado
+5. Calcule o Faturamento Total (Preço Unitário multiplicado pela Quantidade). Qual foi o
+faturamento de toda a rede e qual mercado individualmente gerou a maior receita?
+Explicação e justificativa da resposta:
+
+6. Crie uma simulação de promoção utilizando np.where: Se a &#39;Quantidade&#39; comprada de um
+produto for maior ou igual a 10, o cliente recebe um desconto de 10% no &#39;Preço Unitário&#39;
+daquela compra. Após aplicar essa regra criando uma nova coluna, qual seria o novo
+Faturamento Total da rede?
+Explicação e justificativa da resposta:
