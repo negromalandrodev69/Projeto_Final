@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/models" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (Projeto_Final)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.14 virtualenv at C:\Users\Noturno\PycharmProjects\Projeto_Final\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
