@@ -36,7 +36,7 @@ print(Lucromaxes)
 print(soma)
 
 #6
-np.where(CONDIÇÃO, VERDADEIRO, FALSE)
+#np.where(CONDIÇÃO, VERDADEIRO, FALSE)
 
 leitura["Desconto"] = np.where(
     leitura["Quantidade"] >= 10,
